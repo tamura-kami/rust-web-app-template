@@ -2,6 +2,8 @@
 
 Rust + Axum + PostgreSQL の最小 Web API テンプレート。設計方針は [Issue #1](https://github.com/tamura-kami/rust-web-app-template/issues/1) を参照。
 
+設計の参考として、書籍のサンプルリポジトリ [rust-web-app-book/rusty-book-manager](https://github.com/rust-web-app-book/rusty-book-manager) のレイヤードアーキテクチャを参照しています。
+
 ## 必要環境
 
 - Rust stable（最低 1.98、edition 2024）。`rust-toolchain.toml` で stable、rustfmt、clippy を指定。
